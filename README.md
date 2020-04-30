@@ -1,5 +1,5 @@
 # As vítimas do Coronavírus
-Este foi o código utilizado por trás do especial "As vítimas do coronavírus", publicado no Portal UOL.
+Este foi o código utilizado por trás do especial ["As vítimas do coronavírus"](https://noticias.uol.com.br/reportagens-especiais/as-vitimas-do-coronavirus/index.htm), publicado no Portal UOL.
 
 ## Metodologia
 
